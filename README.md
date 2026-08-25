@@ -1,10 +1,10 @@
 ## Dashboard Screenshots
 
 ### **Overview (Executive)**
-<img width="1334" height="747" alt="image" src="[https://github.com/user-attachments/assets/dee41aad-ed05-47f4-85eb-1052f81da7e5]" />
+![Executive](https://github.com/chloeanz04/Olist-Dashboard/blob/main/page_1.png)
 
 ### **Delivery & Operations**
-<img width="1334" height="747" alt="image" src="[https://github.com/user-attachments/assets/dee41aad-ed05-47f4-85eb-1052f81da7e5]" />
+![Delivery & Operations](https://github.com/chloeanz04/Olist-Dashboard/blob/main/page_2.png)
 
 ### **Marketing**
-<img width="1334" height="747" alt="image" src="[https://github.com/user-attachments/assets/dee41aad-ed05-47f4-85eb-1052f81da7e5]" />
+![Marketing B2B](https://github.com/chloeanz04/Olist-Dashboard/blob/main/page_3.png)
