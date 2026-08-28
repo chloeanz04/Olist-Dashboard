@@ -38,4 +38,4 @@ To ensure robust reporting performance and maintain a scalable data model, this 
 
 1. **Data Ingestion:** Raw Olist datasets were imported directly into a PostgreSQL database.
 2. **Data Warehousing (DWH):** SQL scripts were written and executed to clean the data, resolve inconsistencies, and construct optimized Fact and Dimension tables (Star Schema) within the database layer.
-3. **Data Visualization:** Power BI was connected directly to the SQL database to fetch the pre-processed DWH tables. This architecture minimizes the transformation load on Power Query, shifting the heavy computational lifting to the database engine. Complex DAX measures were then formulated to drive the dynamic visualizations and time-intelligence metrics.
+3. **Data Visualization:** Power BI was connected directly to the SQL database to fetch the processed DWH tables. This architecture minimizes the transformation load on Power Query, shifting the heavy computational lifting to the database engine. Complex DAX measures were then formulated to drive the dynamic visualizations and time-intelligence metrics.
