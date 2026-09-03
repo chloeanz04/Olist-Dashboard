@@ -14,13 +14,13 @@
 ## Key Analytical Insights
 
 ### Executive Summary
-* **Revenue & Volume:** The platform generated a total revenue of R$7,386,051 across 53,775 total orders, maintaining an Average Order Value (AOV) of R$137.35.
+* **Revenue & Volume:** In 2018, the platform generated a total revenue of R$7,386,051 across 53,775 total orders, maintaining an Average Order Value (AOV) of R$137.35.
 * **Payment Preferences:** Credit cards heavily dominate customer purchasing habits, accounting for 79.05% of all revenue.
 * **Customer Retention:** This is a significant area for potential growth, as repeat customers currently make up only 3% of the total customer base.
 * **Purchasing Behavior:** Sales activity consistently peaks on weekdays between 10 AM and 4 PM, with the "Health Beauty" category driving the highest overall revenue.
 
 ### Delivery & Operations
-* **Delivery Performance:** The overall average delivery time stands at 11.60 days, with a late delivery rate of 9.20%.
+* **Delivery Performance:** In 2018, the overall average delivery time stands at 11.60 days, with a late delivery rate of 9.20%.
 * **Root Cause Analysis:** Carrier shipping is the primary bottleneck, causing 84.11% of all late deliveries, while seller preparation delays account for only 15.89%.
 * **Geographical Impact:** São Paulo (SP) experiences the highest absolute volume of delayed shipments with 1,591 late orders. However, despite SP having the highest volume, states like SE (50.00%) and PI (37.50%) suffer from the highest proportional rates of late orders.
 
